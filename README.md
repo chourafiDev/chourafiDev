@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chourafiDev
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning .NET CORE 5
+- 🌱 I’m currently learning LARAVEL & REACTJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
